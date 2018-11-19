@@ -1,0 +1,11 @@
+Host login.engin.umich.edu caen
+	Hostname login.engin.umich.edu
+	User zersesc
+
+Host t3pers13.physics.lsa.umich.edu t3
+	Hostname t3pers13.physics.lsa.umich.edu
+	User zersesc
+
+Host umt3int03.physics.lsa.umich.edu umt
+	Hostname umt3int03.physics.lsa.umich.edu
+	User zersesc
